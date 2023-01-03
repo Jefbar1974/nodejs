@@ -7,4 +7,3 @@ Arquivos de NodeJS da Turma 1606024 - Targettrust
 - Que você tem a extensão do ESLint instalada no seu VSCode
 - Que você tem um package.json com a entrada da dependência do ESLint criada: "eslint": "^8.28.0"
 
-# Teste

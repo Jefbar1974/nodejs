@@ -1,0 +1,79 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Curso NodeJS",
+    "dateExported": "2023-01-12T23:42:39.785Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "ec34c740-a56b-4f13-a898-40919fe10155",
+            "colId": "df64808d-2aa2-4b66-bf20-11e5b759785c",
+            "containerId": "",
+            "name": "Acrescentar Departamento",
+            "url": "localhost:3033/departamentos",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2023-01-12T23:35:34.759Z",
+            "modified": "2023-01-12T23:35:34.759Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "7fab9a42-6ceb-4b8d-9e69-a4a9004ac111",
+            "colId": "df64808d-2aa2-4b66-bf20-11e5b759785c",
+            "containerId": "",
+            "name": "Busca Departamento",
+            "url": "localhost:3033/departamentos/23",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-01-12T23:36:14.279Z",
+            "modified": "2023-01-12T23:40:11.323Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "72769315-4280-40d3-be3c-1cfaa32f15fb",
+            "colId": "df64808d-2aa2-4b66-bf20-11e5b759785c",
+            "containerId": "",
+            "name": "Atualizar Departamento",
+            "url": "localhost:3033/departamentos/23",
+            "method": "PUT",
+            "sortNum": 30000,
+            "created": "2023-01-12T23:38:44.310Z",
+            "modified": "2023-01-12T23:38:44.310Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "d97447f0-7064-45b4-8f16-56df1909b01c",
+            "colId": "df64808d-2aa2-4b66-bf20-11e5b759785c",
+            "containerId": "",
+            "name": "Delete Departamento",
+            "url": "localhost:3033/departamentos/23",
+            "method": "DELETE",
+            "sortNum": 40000,
+            "created": "2023-01-12T23:39:50.845Z",
+            "modified": "2023-01-12T23:39:50.845Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "7fea1d37-b3f7-4b06-a4e3-f63ba7750c9f",
+            "colId": "df64808d-2aa2-4b66-bf20-11e5b759785c",
+            "containerId": "",
+            "name": "Buscar por ID Departamento",
+            "url": "localhost:3033/departamentos/23",
+            "method": "GET",
+            "sortNum": 50000,
+            "created": "2023-01-12T23:41:05.334Z",
+            "modified": "2023-01-12T23:41:05.334Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
